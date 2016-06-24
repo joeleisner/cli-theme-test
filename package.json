@@ -1,7 +1,7 @@
 {
   "name": "cli-theme-test",
   "version": "0.1.0",
-  "description": "A Simple Tester for Command Line Themes",
+  "description": "A simple tool that allows you to check your command-line theme.",
   "main": "index.js",
   "repository": {
     "type": "git",
