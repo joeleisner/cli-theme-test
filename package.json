@@ -1,0 +1,25 @@
+{
+  "name": "cli-theme-test",
+  "version": "0.1.0",
+  "description": "A Simple Tester for Command Line Themes",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/joeleisner/cli-theme-test"
+  },
+  "author": "Joel Eisner <jeisner93@gmail.com> (http://www.joeleisner.com)",
+  "license": "MIT",
+  "keywords": [
+    "command",
+    "line",
+    "terminal",
+    "theme",
+    "tester"
+  ],
+  "bin": {
+    "cli-theme-test": "./index.js"
+  },
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
+}
