@@ -1,7 +1,7 @@
 # CLI Theme Test
 A simple tool that allows you to check your command-line theme.
 
-![A screen shot of the tool in action](http://joeleisner.com/github/screenshots/cli-theme-test/screenshot.png)
+![A screen shot of the tool in action](http://joeleisner.com/github/screenshots/cli-theme-test/screenshot-2.png)
 
 ## How to Install
 ```
