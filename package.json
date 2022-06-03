@@ -1,6 +1,7 @@
 {
+  "type": "module",
   "name": "cli-theme-test",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "description": "A simple tool that allows you to check your command-line theme.",
   "main": "index.js",
   "repository": {
@@ -20,6 +21,17 @@
     "cli-theme-test": "./index.js"
   },
   "dependencies": {
-    "chalk": "^2.4.1"
-  }
+    "chalk": "^5.0.1",
+    "commander": "^9.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.16.0"
+  },
+  "engines": {
+    "node": ">=14.16"
+  },
+  "files": [
+    "colors.js",
+    "index.js"
+  ]
 }
