@@ -1,7 +1,7 @@
 {
   "type": "module",
   "name": "cli-theme-test",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "description": "A simple tool that allows you to check your command-line theme.",
   "main": "index.js",
   "repository": {
