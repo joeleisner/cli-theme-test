@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "cli-theme-test",
   "version": "0.2.0",
   "description": "A simple tool that allows you to check your command-line theme.",
@@ -24,5 +25,8 @@
   },
   "devDependencies": {
     "eslint": "^8.16.0"
+  },
+  "engines": {
+    "node": ">=14.16"
   }
 }
